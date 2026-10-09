@@ -1,4 +1,4 @@
-# Unblocked Twitter Clone
+# Un*locke_d Twitter Clone
 
 A fully open source Twitter clone made by hand over 6000 lines of code free to use
 
