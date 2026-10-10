@@ -12,7 +12,7 @@ Links:
 ## Features
 
 - **School Unblocked:** Bypass Goguardian,Linewise,etc
-- **Free accounts** Every account gets 5gb of storage and unlimited messages and posts
+- **Free accounts** Every account gets 1gb of storage and unlimited messages and posts
 - **Fast Loading:** Lazy looders everywhere to improve the site performance
 - **Open Source:** Free to use, modify, or customize.
 
